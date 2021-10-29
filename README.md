@@ -1,20 +1,20 @@
 ### Hi there. I'm Anthony 👋
 
+- My Github Highlights: 
+  - [2Dvs3D](https://github.com/Lighterny/2D_3D_CV): where I compare 2D versus 3D CNN's on classifying lung disease from chest CT scans.
+  - [Patient Readmission Class Imbalance](https://github.com/Lighterny/Class_Imbalance_SMOTE): showing how SMOTE improves 6 different ML models for predicting patient readmissions. 
 
-- 💻 Current Data Science Projects:
-  - Re-writing previous projects into shareable content for my Github. 
-  - Impact of the 'class imbalance' problem on ML outputs.
-  - Searching for image+tabular+text datasets for hybrid ML models.
-
-- 📖 Data Science I’m currently learning:
-  - Methods to combine unstructured (text+image) with structured tabular data for more comprehensive ML.
-
-- 👨🏼‍💻 Data Science I would like to pursue in the future:
-  - Integrating multi-omics with patient health records, medical images, and wearable data.
+- 💻 Currently Working on:
+  - Analysing NHS secondary medicines data to interrogate trends in prescription behaviour by geolocation, trust organisation, medication, etc.
+  - Getting a full-time job! Feel free to contact me below if you have any advice or suggestions!
 
 - 📫 Contact Me:
   - 👨🏼‍💻 [LinkedIn](https://www.linkedin.com/in/anthonylighterness/)
   - 📧 Email: tony.lighterness@gmail.com
+
+- 👨🏼‍💻 Data Science projects I would like to pursue in the future:
+  - Integrating multi-omics with patient health records, medical images, and wearable data.
+  - Combining neural networks trained on medical imaging data with patient record data.
 
 ### ✨ More About Me ✨
 - 📚 Currently Reading: 
@@ -29,16 +29,15 @@
     - Bench Press: 95kg
     - Deadlift: 120kg
 
-- 🎹 Currently Piano Repertoire:
-  - Bach 2-Voice Inventions (#1 C, #2 Cm, #8 F, and #14 Bb)
-  - Mozart Sonata C Major Allegro 
+- 🎹 Currently Practicing:
+  - Chopin Etude Op 10 #1 Cmaj (only at 80 BPM tempo at the moment!)
+  - Bach's 2-Voice Inventions (#1 Cmaj, #8 Fmaj, and #14 Bbmaj)
   - Saint-Saens Le Cygne 
-  - Chopin Etude Op 10 #1 C
-  - Liszt Liebestraume #3 Ab
+  - Liszt Liebestraume #3 Abmaj
 
 - 🎹 Piano Repertoire Wishlist (For Future Learning):
-  - Bach 2-Voice Inventions (#3 D, #4 D, #5 Eb, #6 E, #7 Em)
-  - Bach Sinfonias
-  - Chopin Etudes Op 10 (#2 Am, #4 C#m, #5 Gb, #8 F)
-  - Chopin Etudes Op 25 (#6 G#m, #9 Gb)
+  - All Bach 2-Voice Inventions (#3 D, #4 D, #5 Eb, #6 E, #7 Em)
+  - All Bach Sinfonias
+  - Chopin Etudes Op 10 (#2 Amin, #4 C#min, #5 Gbmaj, #8 Fmaj)
+  - Chopin Etudes Op 25 (#6 G#min, #9 Gbmaj)
   - Liszt's Un Sospiria
