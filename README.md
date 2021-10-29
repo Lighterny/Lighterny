@@ -16,6 +16,8 @@
   - Integrating multi-omics with patient health records, medical images, and wearable data.
   - Combining neural networks trained on medical imaging data with patient record data.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lighterny)](https://github.com/Lighterny/github-readme-stats)
+
 ### ✨ More About Me ✨
 - 📚 Currently Reading: 
   - *Meditations* by Marcus Aurelius
