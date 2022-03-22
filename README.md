@@ -6,7 +6,7 @@
 
 - 💻 Currently Working on:
   - Analysing NHS secondary medicines data to interrogate trends in prescription behaviour by geolocation, trust organisation, medication, etc.
-  - Getting a full-time job! Feel free to contact me below if you have any advice or suggestions!
+  - Data quality profiling/analysis on healthcare datasets, and analysing and researching the impacts of data quality improvement techniques.
 
 - 📫 Contact Me:
   - 👨🏼‍💻 [LinkedIn](https://www.linkedin.com/in/anthonylighterness/)
@@ -14,7 +14,7 @@
 
 - 👨🏼‍💻 Data Science projects I would like to pursue in the future:
   - Integrating multi-omics with patient health records, medical images, and wearable data.
-  - Combining neural networks trained on medical imaging data with patient record data.
+  - Integrating unstructured text and imaging data to enrich patient electronic health records.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lighterny)](https://github.com/Lighterny/github-readme-stats)
 
@@ -32,7 +32,7 @@
     - Deadlift: 120kg
 
 - 🎹 Currently Practicing:
-  - Chopin Etude Op 10 #1 Cmaj (only at 80 BPM tempo at the moment!)
+  - Chopin Etude Op 10 #1 Cmaj 
   - Bach's 2-Voice Inventions (#1 Cmaj, #8 Fmaj, and #14 Bbmaj)
   - Saint-Saens Le Cygne 
   - Liszt Liebestraume #3 Abmaj
