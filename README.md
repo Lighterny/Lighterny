@@ -1,6 +1,7 @@
 ### Hi there. I'm Anthony 👋
 
 - My Github Highlights: 
+  - [Data Quality/Governance Improvement](https://pmc.ncbi.nlm.nih.gov/articles/PMC11377907/) where I compare real world data quality driven improvement and governance practices.
   - [2Dvs3D](https://github.com/Lighterny/2D_3D_CV): where I compare 2D versus 3D CNN's on classifying lung disease from chest CT scans.
   - [Patient Readmission Class Imbalance](https://github.com/Lighterny/Class_Imbalance_SMOTE): showing how SMOTE improves 6 different ML models for predicting patient readmissions. 
 
@@ -21,7 +22,6 @@
 ### ✨ More About Me ✨
 - 📚 Currently Reading: 
   - *Meditations* by Marcus Aurelius
-  - *12 Rules for Life* by Jordan B Peterson
 
 - 🏋🏼‍♂️ Current Fitness Facts:
   - Full Body Split x5/week
